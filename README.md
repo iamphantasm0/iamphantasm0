@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamphantasm0
 - 👀 I’m interested in FrontEnd Development for Web, Desktop and mobile
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Flutter, Python, Solidity...
 - 📫 How to reach me iamphantasm0@gmail.com
 
 <!---
