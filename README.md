@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate IT professional and developer with a deep interest in Linux environments, server architecture, and full-stack development. I specialize in building dynamic web applications, troubleshooting server issues, and providing IT support. With hands-on experience in multiple programming languages and backend frameworks, I'm always excited to explore new technologies and collaborate on open-source projects.<br><br>
+I'm an IT professional and developer with a deep interest in Linux environments, server architecture, and full-stack development. I specialize mailnly in building dynamic cross platform applications, troubleshooting server issues, and providing IT support. With 4yrs hands-on experience in multiple programming languages and backend frameworks, I'm always excited to explore new technologies and collaborate on open-source projects.<br><br>
 
 
 ## 🌐 Socials:
